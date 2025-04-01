@@ -24,17 +24,12 @@ The **Venue Booking System** is a Java-based application designed to streamline 
 
 ### Steps to Run the Project
 1. Clone the repository:
-   ```sh
    git clone https://github.com/your-username/venue-booking-system.git
-   ```
 2. Open the project in your preferred IDE.
-3. Set up the **MySQL database** using the provided SQL script (`database.sql`).
-4. Update the database credentials in the Java code (`DatabaseConnection.java`).
+3. Set up the **MySQL database** using the provided SQL script 
+4. Update the database credentials in the Java code 
 5. Compile and run the project:
-   ```sh
-   javac Main.java
-   java Main
-
+   
 ## Usage
 - **Faculty:** Log in → Select Venue → Choose Date & Time → Book Venue.
 - **Admin:** Log in → View All Bookings → Approve/Reject Requests.
@@ -44,4 +39,4 @@ The **Venue Booking System** is a Java-based application designed to streamline 
 
 ## License 
 This project is open-source. Feel free to modify and use it!
-Feel free to contribute or reach out if you have any questions! 🎉
+Feel free to contribute or reach out if you have any questions
